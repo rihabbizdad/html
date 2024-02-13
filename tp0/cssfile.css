@@ -1,0 +1,22 @@
+body
+{
+    background-color:pink;
+    color: white;
+}
+
+h1
+{
+    font-size: 14px;
+}
+
+p
+{
+    margin-left: 4em;
+}
+
+strong
+{
+    border: 3px solid #afa;
+    color: black;
+    background-color: white;
+}
